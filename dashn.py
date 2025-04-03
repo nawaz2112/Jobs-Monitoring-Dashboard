@@ -28,8 +28,8 @@ DB_PASSWORD = "airflow"
 # Email configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = "abhinda5334@gmail.com"
-EMAIL_PASSWORD = "ufsf fojk klfm zemt"
+EMAIL_ADDRESS = " "#Use your gmail account
+EMAIL_PASSWORD = " "#Use your app password
 
 # Fetch DAG runs data and convert timestamps to IST
 def fetch_dag_runs():
